@@ -1,7 +1,7 @@
 # SystemLab
 Aplicación para procesos de laboratorio clínicos y moleculares.
 
-Integración GIT – Cloud Hostinger
+# Integración GIT – Cloud Hostinger
 Crear un Nuevo Repositorio en Hostinger
 •	Copiar el link HTTPS para realizar clonación.
  ![image](https://github.com/apluas/SystemLab/assets/76183509/affc3a9f-6c26-4a42-b967-83fb2bb2ea5d)
@@ -26,9 +26,11 @@ o	Add Webhook
  ![image](https://github.com/apluas/SystemLab/assets/76183509/eb24ce8e-e32c-4a6c-a480-2659ada9500b)
 
 
-Clonar repositorio
+# Clonar repositorio
 git clone https://github.com/apluas/SystemLab.git
+
 ![image](https://github.com/apluas/SystemLab/assets/76183509/a221c5a3-455f-4ade-b3e3-6e4c1c194d62)
+
 ![image](https://github.com/apluas/SystemLab/assets/76183509/366c8b8a-8fa9-40e5-ac7f-2706c42d6238)
 
 
