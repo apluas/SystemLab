@@ -35,3 +35,11 @@ Se evidencia los archivos localmente al realizar la clonación:
 ![image](https://github.com/apluas/SystemLab/assets/76183509/366c8b8a-8fa9-40e5-ac7f-2706c42d6238)
 
 
+# Instalación Laravel 10
+Se considera la versión 8.2 de PHP.
+![image](https://github.com/apluas/SystemLab/assets/76183509/8b4a377e-9311-4cae-bfec-f961b0e9aed9)
+
+
+
+
+
