@@ -37,6 +37,7 @@ Se evidencia los archivos localmente al realizar la clonación:
 
 # Instalación Laravel 10
 Se considera la versión 8.2 de PHP.
+
 ![image](https://github.com/apluas/SystemLab/assets/76183509/8b4a377e-9311-4cae-bfec-f961b0e9aed9)
 
 
