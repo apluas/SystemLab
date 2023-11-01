@@ -28,9 +28,8 @@ o	Add Webhook
 
 # Clonar repositorio
 git clone https://github.com/apluas/SystemLab.git
-
 ![image](https://github.com/apluas/SystemLab/assets/76183509/a221c5a3-455f-4ade-b3e3-6e4c1c194d62)
-
+Se evidencia los archivos localmente al realizar la clonación:
 ![image](https://github.com/apluas/SystemLab/assets/76183509/366c8b8a-8fa9-40e5-ac7f-2706c42d6238)
 
 
